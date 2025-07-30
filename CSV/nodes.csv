@@ -1,0 +1,19 @@
+# nodes.csv file
+# All lines beginning with a # are treated as a comment and ignored.
+# Adjust your input handler to skip these lines for BONUS or just remove them (no BONUS).
+# Each line below has the form
+# ID,x,y
+# where ID is the unique integer ID number of the node (1 through N),
+# (x,y) is the location of the node in the plane
+# The first two nodes are your start and goal nodes repectively.
+# Through C++ add your path nodes (in any order, since connections/path are defined in the edges.csv and path.csv file) to the end of this file using the same format.
+# Make sure to remove any empty lines after the last node.
+# Since this file only appends, make sure to clean it every run.
+1,-0.5,-0.5
+2,0.5,0.5
+
+0,-0.500000,-0.500000
+7,0.098439,-0.075520
+15,0.125246,0.105505
+5,0.276084,0.414825
+1,0.500000,0.500000
