@@ -43,4 +43,5 @@ To run the Python visualizer:
 1. Install Python 3: https://www.python.org/downloads/
 2. Install pygame:
    ```pip install pygame```
+   ---
    **No need to have python knowlage just install pygame and when running the .cpp file your visualiser will work automaticaly**
